@@ -52,7 +52,7 @@
     "storybook": "catalog:storybook10",
     "tailwindcss": "catalog:",
     "typescript": "catalog:",
-    "vite": "^7.1.2",
+    "vite": "^7.3.5",
     "vitest": "catalog:vitest"
   },
   "prettier": "@oui/prettier-config"

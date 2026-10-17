@@ -36,7 +36,7 @@
     "flat": "^6.0.1",
     "lodash-es": "^4.17.21",
     "sd-tailwindcss-transformer": "^2.2.1",
-    "style-dictionary": "^5.1.1"
+    "style-dictionary": "^5.4.4"
   },
   "publishConfig": {
     "access": "public"
